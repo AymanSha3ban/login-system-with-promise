@@ -1,0 +1,8 @@
+#loading{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    font-size: 60px;
+    transform: translate(-50%, -50%);
+    color:rgb(115, 110, 110);
+}
